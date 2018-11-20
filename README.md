@@ -14,6 +14,9 @@
 * Change google-services.json at \demoEInvoicingMobile\android\app 
 * CMD in root project : react-native run-android 
 * Done !
+![capture](https://user-images.githubusercontent.com/24559824/48751762-aa4b4f80-ecb8-11e8-93f4-afebda12239e.PNG)
+![capture1](https://user-images.githubusercontent.com/24559824/48751781-bb945c00-ecb8-11e8-9244-67477463fd17.PNG)
+![capture2](https://user-images.githubusercontent.com/24559824/48751783-bc2cf280-ecb8-11e8-8430-20cf2aa9c14e.PNG)
 
 ## Windows Form App 
 * Windows Form Apps using C# 
