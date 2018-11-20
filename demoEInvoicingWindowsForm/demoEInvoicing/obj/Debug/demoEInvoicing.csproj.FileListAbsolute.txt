@@ -26,3 +26,31 @@ C:\Users\DanhyPC\documents\visual studio 2015\Projects\demoEInvoicing\demoEInvoi
 C:\Users\DanhyPC\documents\visual studio 2015\Projects\demoEInvoicing\demoEInvoicing\obj\Debug\demoEInvoicing.csprojResolveAssemblyReference.cache
 C:\Users\DanhyPC\documents\visual studio 2015\Projects\demoEInvoicing\demoEInvoicing\bin\Debug\SautinSoft.Document.dll
 C:\Users\DanhyPC\documents\visual studio 2015\Projects\demoEInvoicing\demoEInvoicing\bin\Debug\SautinSoft.Document.xml
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\demoEInvoicing.exe.config
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoEInvoicingWindowsForm\demoEInvoicing\obj\Debug\demoEInvoicing.exe
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoEInvoicingWindowsForm\demoEInvoicing\obj\Debug\demoEInvoicing.pdb
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoEInvoicingWindowsForm\demoEInvoicing\obj\Debug\demoEInvoicing.csproj.App.config
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoEInvoicingWindowsForm\demoEInvoicing\obj\Debug\demoEInvoicing.csprojResolveAssemblyReference.cache
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoEInvoicingWindowsForm\demoEInvoicing\obj\Debug\demoEInvoicing.Form1.resources
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoEInvoicingWindowsForm\demoEInvoicing\obj\Debug\demoEInvoicing.Properties.Resources.resources
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoEInvoicingWindowsForm\demoEInvoicing\obj\Debug\demoEInvoicing.csproj.GenerateResource.Cache
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\demoEInvoicing.exe
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\demoEInvoicing.pdb
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\FireSharp.dll
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\RestSharp.dll
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\SautinSoft.Document.dll
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\RestSharp.xml
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\SautinSoft.Document.xml
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\System.Net.Http.Primitives.xml

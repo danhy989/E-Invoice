@@ -124,7 +124,7 @@ namespace demoEInvoicing
                 foreach (var item in einvoice.itemsData)
                 {
                     string queryItem = "EXEC dbo.AddInvoicetoDataBase @ItemsName , @ItemsPrice , @ItemsNum , @InvoiceSerialNo ";
-                    DataProvide.Instance.ExecuteNonQuery(queryItem, new object[] { item.ItemsName, item.ItemsPrice, item.ItemsNum ,einvoice.InvoiceSerialNo});
+                    DataProvide.Instance.ExecuteNonQuery(queryItem, new object[] { item.ItemsName, item.ItemsPrice, item.ItemsNum, einvoice.InvoiceSerialNo });
                 }
             }
             

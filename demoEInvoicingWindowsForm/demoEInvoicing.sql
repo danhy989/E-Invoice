@@ -9,7 +9,7 @@ CREATE TABLE CONG_TY (
 	MaCT int identity not null primary key,
 	ComName NVARCHAR(30),
 	ComAddress NVARCHAR(30),
-	ComPhone float,
+	ComPhone NVARCHAR(30),
 )
 GO
 
@@ -19,7 +19,7 @@ CREATE TABLE KHACH_HANG(
 	CusEmail NVARCHAR(30),
 	CusAddress NVARCHAR(30),
 	CusBankName NVARCHAR(30) default null,
-	Cusphone float default null,
+	Cusphone NVARCHAR(30) default null,
 	CusBankNo float,
 )
 GO
@@ -50,12 +50,12 @@ GO
 CREATE PROCEDURE dbo.AddtoDataBase
 	@ComName NVARCHAR(30),
 	@ComAddress NVARCHAR(30),
-	@ComPhone float,
+	@ComPhone NVARCHAR(30),
 	@CusName NVARCHAR(30),
 	@CusEmail NVARCHAR(30),
 	@CusAddress NVARCHAR(30),
 	@CusBankName NVARCHAR(30),
-	@Cusphone float,
+	@Cusphone NVARCHAR(30),
 	@CusBankNo float,
 	@InvoiceArisingDate NVARCHAR(30),
 	@InvoiceName NVARCHAR(30),

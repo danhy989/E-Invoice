@@ -19,7 +19,7 @@ namespace demoEInvoicing
         public string CusBankName { get; set; }
         public string CusEmail { get; set; }
         public string CusName { get; set; }
-        public float Cusphone { get; set; }
+        public long CusPhone { get; set; }
         public float CusBankNo { get; set; }
         public string InvoiceArisingDate { get; set; }
         public string InvoiceName { get; set; }
@@ -27,7 +27,7 @@ namespace demoEInvoicing
         public string InvoiceSerialNo { get; set; }
         public string ComAddress { get; set; }
         public string ComName { get; set; }
-        public float ComPhone { get; set; }
+        public long ComPhone { get; set; }
         public string Payment { get; set; }
         public float TotalPrice { get; set; }
        
