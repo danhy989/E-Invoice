@@ -14,6 +14,7 @@
 * Change google-services.json at \demoEInvoicingMobile\android\app 
 * CMD in root project : react-native run-android 
 * Done !
+
 ![capture](https://user-images.githubusercontent.com/24559824/48751762-aa4b4f80-ecb8-11e8-93f4-afebda12239e.PNG)
 ![capture1](https://user-images.githubusercontent.com/24559824/48751781-bb945c00-ecb8-11e8-9244-67477463fd17.PNG)
 ![capture2](https://user-images.githubusercontent.com/24559824/48751783-bc2cf280-ecb8-11e8-8430-20cf2aa9c14e.PNG)
@@ -27,5 +28,9 @@
 * Save data to Database use SQLSERVER
 * Create PDF File to Print Invoice
 ### HOW TO USE
-* Open visual studio 2015 to RUN !
+* Run demoEInvoicing.sql to create Database 
+* Open visual studio 2015 and RUN !
+
+![demoapp](https://user-images.githubusercontent.com/24559824/48751906-70c71400-ecb9-11e8-8408-69423e6199f0.png)
+![2](https://user-images.githubusercontent.com/24559824/48751908-715faa80-ecb9-11e8-88f5-3ffac4c87fe2.PNG)
 
