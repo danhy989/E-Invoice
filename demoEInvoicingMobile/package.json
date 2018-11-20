@@ -1,0 +1,15 @@
+{
+  "name": "demoEInvoicing",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "16.6.1",
+    "react-native": "0.57.5",
+    "react-native-firebase": "^5.1.0",
+    "react-native-gesture-handler": "^1.0.9",
+    "react-navigation": "^3.0.0"
+  }
+}

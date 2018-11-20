@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1061749085907",
+    "firebase_url": "https://demoeinvoicing.firebaseio.com",
+    "project_id": "demoeinvoicing",
+    "storage_bucket": "demoeinvoicing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061749085907:android:8aa4ba54c5d16aa7",
+        "android_client_info": {
+          "package_name": "com.demoeinvoicing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061749085907-6k7oladui1pvtc32rch8q1chppivnerj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgmCk-PsANvQlQCwirJu46bP1izW17NtY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
