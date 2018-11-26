@@ -120,7 +120,7 @@ namespace demoEInvoicing
                 data.Rows.Add(row);
 
                 string query = "EXEC dbo.AddtoDataBase @ComName , @ComAddress , @ComPhone , @CusName , @CusEmail , @CusAddress , @CusBankName , @Cusphone , @CusBankNo , @InvoiceArisingDate , @InvoiceName , @InvoiceNo , @InvoiceSerialNo , @Payment , @TotalPrice  ";
-                int check = DataProvide.Instance.ExecuteNonQuery(query, new object[] { einvoice.ComName, einvoice.ComAddress, einvoice.ComPhone, einvoice.CusName, einvoice.CusEmail, einvoice.CusAddress, einvoice.CusBankName, einvoice.Cusphone, einvoice.CusBankNo, einvoice.InvoiceArisingDate, einvoice.InvoiceName, einvoice.InvoiceNo, einvoice.InvoiceSerialNo, einvoice.Payment, einvoice.TotalPrice });
+                int check = DataProvide.Instance.ExecuteNonQuery(query, new object[] { einvoice.ComName, einvoice.ComAddress, einvoice.ComPhone, einvoice.CusName, einvoice.CusEmail, einvoice.CusAddress, einvoice.CusBankName, einvoice.CusPhone, einvoice.CusBankNo, einvoice.InvoiceArisingDate, einvoice.InvoiceName, einvoice.InvoiceNo, einvoice.InvoiceSerialNo, einvoice.Payment, einvoice.TotalPrice });
                 foreach (var item in einvoice.itemsData)
                 {
                     string queryItem = "EXEC dbo.AddInvoicetoDataBase @ItemsName , @ItemsPrice , @ItemsNum , @InvoiceSerialNo ";
@@ -217,7 +217,7 @@ namespace demoEInvoicing
                     par1.Inlines.Add(new SpecialCharacter(dc, SpecialCharacterType.LineBreak));
                     dc.Content.End.Insert("Email khách hàng : " + einvoice.CusEmail, textFormat);
                     par1.Inlines.Add(new SpecialCharacter(dc, SpecialCharacterType.LineBreak));
-                    dc.Content.End.Insert("Số điện thoại khách hàng : " + einvoice.Cusphone, textFormat);
+                    dc.Content.End.Insert("Số điện thoại khách hàng : " + einvoice.CusPhone, textFormat);
                     par1.Inlines.Add(new SpecialCharacter(dc, SpecialCharacterType.LineBreak));
                     dc.Content.End.Insert("Số tài khoản  : " + einvoice.CusBankNo, textFormat);
                     par1.Inlines.Add(new SpecialCharacter(dc, SpecialCharacterType.LineBreak));
