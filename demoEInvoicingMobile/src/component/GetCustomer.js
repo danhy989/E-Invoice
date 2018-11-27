@@ -4,6 +4,7 @@ import Css from '../Css/Css';
 import firebase from 'react-native-firebase'
 
 export default class GetCustomer extends Component{
+   
     constructor(props){
         super(props);
         this.state = {
@@ -15,16 +16,26 @@ export default class GetCustomer extends Component{
             cusBankNo: null,
             cusBankName: 'Ngân hàng Á Châu',
             InvoiceName: 'Hóa đơn giá trị gia tăng',
-            random: 0
-        }
+            random: 0,
+            EinvoiceNoLast:null,
+        } 
+        this.getEinVoiceNoLast();
     }
-   
+
+    getEinVoiceNoLast(){
+        firebase.database().ref().child('/hoadon').limitToLast(1).on('value', (value) => {
+            value.forEach(child => {
+                console.log(child.val().InvoiceNo);
+                this.setState({EinvoiceNoLast:child.val().InvoiceNo})
+            })
+        })
+    }
+
     sendEInvoicing(){
-       
         const totalPrice = this.props.navigation.state.params.totalPrice;
-        
         let itemsData = this.props.navigation.state.params.data;
-        let {name,address,phone,payment,email,cusBankNo,cusBankName,InvoiceName} = this.state;
+        let { name, address, phone, payment, email, cusBankNo, cusBankName, InvoiceName ,EinvoiceNoLast} = this.state;
+            console.log(this.state.EinvoiceNoLast);
             firebase.database().ref('hoadon').push({
                 CusName: name,
                 CusAddress: address,
@@ -38,8 +49,8 @@ export default class GetCustomer extends Component{
                 ComAddress: "Khu phố 6, P.Linh Trung, Q.Thủ Đức, Tp.Hồ Chí Minh",
                 InvoiceArisingDate: new Date().getDate()+'/'+new Date().getMonth()+'/'+new Date().getFullYear(),
                 InvoiceName: InvoiceName,
-                InvoiceSerialNo: 'UIT'+new Date().getTime(),
-                InvoiceNo: new Date().getTime(),
+                InvoiceSerialNo: 'UIT'+(EinvoiceNoLast+1),
+                InvoiceNo: EinvoiceNoLast+1,
                 TotalPrice: totalPrice,
                 itemsData
             }).then(this.props.navigation.navigate('finish',{checkSuccess:1}))

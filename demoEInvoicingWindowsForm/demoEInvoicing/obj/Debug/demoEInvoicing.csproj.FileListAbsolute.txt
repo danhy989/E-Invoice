@@ -54,3 +54,31 @@ C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoEInvoicingWindowsForm\demoEInvoi
 C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\SautinSoft.Document.xml
 C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\System.Net.Http.Extensions.xml
 C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\System.Net.Http.Primitives.xml
+D:\UML Cho Topic Seminar\HoaDonDienTu\demo\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\demoEInvoicing.exe.config
+D:\UML Cho Topic Seminar\HoaDonDienTu\demo\demoEInvoicingWindowsForm\demoEInvoicing\obj\Debug\demoEInvoicing.exe
+D:\UML Cho Topic Seminar\HoaDonDienTu\demo\demoEInvoicingWindowsForm\demoEInvoicing\obj\Debug\demoEInvoicing.pdb
+D:\UML Cho Topic Seminar\HoaDonDienTu\demo\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\demoEInvoicing.exe
+D:\UML Cho Topic Seminar\HoaDonDienTu\demo\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\demoEInvoicing.pdb
+D:\UML Cho Topic Seminar\HoaDonDienTu\demo\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\FireSharp.dll
+D:\UML Cho Topic Seminar\HoaDonDienTu\demo\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\FireSharp.Serialization.JsonNet.dll
+D:\UML Cho Topic Seminar\HoaDonDienTu\demo\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\UML Cho Topic Seminar\HoaDonDienTu\demo\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\UML Cho Topic Seminar\HoaDonDienTu\demo\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\UML Cho Topic Seminar\HoaDonDienTu\demo\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\Newtonsoft.Json.dll
+D:\UML Cho Topic Seminar\HoaDonDienTu\demo\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\RestSharp.dll
+D:\UML Cho Topic Seminar\HoaDonDienTu\demo\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\SautinSoft.Document.dll
+D:\UML Cho Topic Seminar\HoaDonDienTu\demo\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\System.Net.Http.Extensions.dll
+D:\UML Cho Topic Seminar\HoaDonDienTu\demo\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\System.Net.Http.Primitives.dll
+D:\UML Cho Topic Seminar\HoaDonDienTu\demo\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\UML Cho Topic Seminar\HoaDonDienTu\demo\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\UML Cho Topic Seminar\HoaDonDienTu\demo\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\UML Cho Topic Seminar\HoaDonDienTu\demo\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\Newtonsoft.Json.xml
+D:\UML Cho Topic Seminar\HoaDonDienTu\demo\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\RestSharp.xml
+D:\UML Cho Topic Seminar\HoaDonDienTu\demo\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\SautinSoft.Document.xml
+D:\UML Cho Topic Seminar\HoaDonDienTu\demo\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\System.Net.Http.Extensions.xml
+D:\UML Cho Topic Seminar\HoaDonDienTu\demo\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\System.Net.Http.Primitives.xml
+D:\UML Cho Topic Seminar\HoaDonDienTu\demo\demoEInvoicingWindowsForm\demoEInvoicing\obj\Debug\demoEInvoicing.csproj.App.config
+D:\UML Cho Topic Seminar\HoaDonDienTu\demo\demoEInvoicingWindowsForm\demoEInvoicing\obj\Debug\demoEInvoicing.csprojResolveAssemblyReference.cache
+D:\UML Cho Topic Seminar\HoaDonDienTu\demo\demoEInvoicingWindowsForm\demoEInvoicing\obj\Debug\demoEInvoicing.Form1.resources
+D:\UML Cho Topic Seminar\HoaDonDienTu\demo\demoEInvoicingWindowsForm\demoEInvoicing\obj\Debug\demoEInvoicing.Properties.Resources.resources
+D:\UML Cho Topic Seminar\HoaDonDienTu\demo\demoEInvoicingWindowsForm\demoEInvoicing\obj\Debug\demoEInvoicing.csproj.GenerateResource.Cache
