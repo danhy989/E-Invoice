@@ -1,0 +1,14 @@
+c:\users\danhypc\documents\visual studio 2015\Projects\demoCloneTax\demoCloneTax\bin\Debug\demoCloneTax.exe.config
+c:\users\danhypc\documents\visual studio 2015\Projects\demoCloneTax\demoCloneTax\bin\Debug\demoCloneTax.exe
+c:\users\danhypc\documents\visual studio 2015\Projects\demoCloneTax\demoCloneTax\bin\Debug\demoCloneTax.pdb
+c:\users\danhypc\documents\visual studio 2015\Projects\demoCloneTax\demoCloneTax\obj\Debug\demoCloneTax.csprojResolveAssemblyReference.cache
+c:\users\danhypc\documents\visual studio 2015\Projects\demoCloneTax\demoCloneTax\obj\Debug\demoCloneTax.DangKy.resources
+c:\users\danhypc\documents\visual studio 2015\Projects\demoCloneTax\demoCloneTax\obj\Debug\demoCloneTax.Form1.resources
+c:\users\danhypc\documents\visual studio 2015\Projects\demoCloneTax\demoCloneTax\obj\Debug\demoCloneTax.Properties.Resources.resources
+c:\users\danhypc\documents\visual studio 2015\Projects\demoCloneTax\demoCloneTax\obj\Debug\demoCloneTax.csproj.GenerateResource.Cache
+c:\users\danhypc\documents\visual studio 2015\Projects\demoCloneTax\demoCloneTax\obj\Debug\demoCloneTax.exe
+c:\users\danhypc\documents\visual studio 2015\Projects\demoCloneTax\demoCloneTax\obj\Debug\demoCloneTax.pdb
+c:\users\danhypc\documents\visual studio 2015\Projects\demoCloneTax\demoCloneTax\obj\Debug\demoCloneTax.ChiTietToKhaiDangKy.resources
+c:\users\danhypc\documents\visual studio 2015\Projects\demoCloneTax\demoCloneTax\obj\Debug\demoCloneTax.NhapChuKySo.resources
+c:\users\danhypc\documents\visual studio 2015\Projects\demoCloneTax\demoCloneTax\obj\Debug\demoCloneTax.DangNhap.resources
+c:\users\danhypc\documents\visual studio 2015\Projects\demoCloneTax\demoCloneTax\obj\Debug\demoCloneTax.Main.resources

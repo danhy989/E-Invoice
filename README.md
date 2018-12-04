@@ -1,10 +1,10 @@
 # E-Invoice Simple
 
 # E-Invoicing Deployment diagram 
-![capture](https://user-images.githubusercontent.com/24559824/48752184-9a346f80-ecba-11e8-8891-d2f0906e47c6.PNG)
 
 
-## Demo E-invoice : Mobile App , Windows Form App
+
+## Demo E-invoice : Mobile App , Windows Form App , CloneTax , digitalSinature , HTKK 
 
 ## Mobile App :
 * Mobile apps using JavaScript and React
