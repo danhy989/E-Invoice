@@ -82,3 +82,6 @@ D:\UML Cho Topic Seminar\HoaDonDienTu\demo\demoEInvoicingWindowsForm\demoEInvoic
 D:\UML Cho Topic Seminar\HoaDonDienTu\demo\demoEInvoicingWindowsForm\demoEInvoicing\obj\Debug\demoEInvoicing.Form1.resources
 D:\UML Cho Topic Seminar\HoaDonDienTu\demo\demoEInvoicingWindowsForm\demoEInvoicing\obj\Debug\demoEInvoicing.Properties.Resources.resources
 D:\UML Cho Topic Seminar\HoaDonDienTu\demo\demoEInvoicingWindowsForm\demoEInvoicing\obj\Debug\demoEInvoicing.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\E-Invoice\demoEInvoicingWindowsForm\demoEInvoicing\bin\Debug\demoEInvoicing.exe.config
+C:\Users\Dell\Documents\E-Invoice\demoEInvoicingWindowsForm\demoEInvoicing\obj\Debug\demoEInvoicing.exe
+C:\Users\Dell\Documents\E-Invoice\demoEInvoicingWindowsForm\demoEInvoicing\obj\Debug\demoEInvoicing.pdb
