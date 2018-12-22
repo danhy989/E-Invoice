@@ -12,3 +12,17 @@ c:\users\danhypc\documents\visual studio 2015\Projects\demoCloneTax\demoCloneTax
 c:\users\danhypc\documents\visual studio 2015\Projects\demoCloneTax\demoCloneTax\obj\Debug\demoCloneTax.NhapChuKySo.resources
 c:\users\danhypc\documents\visual studio 2015\Projects\demoCloneTax\demoCloneTax\obj\Debug\demoCloneTax.DangNhap.resources
 c:\users\danhypc\documents\visual studio 2015\Projects\demoCloneTax\demoCloneTax\obj\Debug\demoCloneTax.Main.resources
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoCloneTax\demoCloneTax\bin\Debug\demoCloneTax.exe.config
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoCloneTax\demoCloneTax\obj\Debug\demoCloneTax.exe
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoCloneTax\demoCloneTax\obj\Debug\demoCloneTax.pdb
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoCloneTax\demoCloneTax\bin\Debug\demoCloneTax.exe
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoCloneTax\demoCloneTax\bin\Debug\demoCloneTax.pdb
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoCloneTax\demoCloneTax\obj\Debug\demoCloneTax.csprojResolveAssemblyReference.cache
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoCloneTax\demoCloneTax\obj\Debug\demoCloneTax.ChiTietToKhaiDangKy.resources
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoCloneTax\demoCloneTax\obj\Debug\demoCloneTax.DangKy.resources
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoCloneTax\demoCloneTax\obj\Debug\demoCloneTax.DangNhap.resources
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoCloneTax\demoCloneTax\obj\Debug\demoCloneTax.Form1.resources
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoCloneTax\demoCloneTax\obj\Debug\demoCloneTax.Main.resources
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoCloneTax\demoCloneTax\obj\Debug\demoCloneTax.NhapChuKySo.resources
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoCloneTax\demoCloneTax\obj\Debug\demoCloneTax.Properties.Resources.resources
+C:\Users\DanhyPC\Documents\GitHub\E-Invoice\demoCloneTax\demoCloneTax\obj\Debug\demoCloneTax.csproj.GenerateResource.Cache

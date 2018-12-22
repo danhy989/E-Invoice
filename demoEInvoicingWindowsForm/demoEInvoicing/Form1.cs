@@ -262,7 +262,7 @@ namespace demoEInvoicing
 
                     //Add a signature
                                         
-                    String picPath = System.AppDomain.CurrentDomain.BaseDirectory + "\\signature.png"; // File located in Resources
+                    String picPath = System.AppDomain.CurrentDomain.BaseDirectory + "signature.png"; // File located in Resources
 
                     SDD::Picture signaturePic = new SDD::Picture(dc, picPath);
 

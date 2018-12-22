@@ -29,7 +29,7 @@ namespace demoCloneTax
         {
             Bitmap bitmap = new Bitmap(this.Width,this.Height);
             DrawToBitmap(bitmap, new Rectangle(0, 0, bitmap.Width, bitmap.Height));
-            bitmap.Save("D:\\toKhaiThue.jpeg", ImageFormat.Jpeg);
+            bitmap.Save("toKhaiThue.jpeg", ImageFormat.Jpeg);
             NhapChuKySo form = new NhapChuKySo(labelSDT.Text, labelEmail.Text, labelMST.Text, labelToChucTVan.Text, labelToChucCungCap.Text, labelCTS.Text);
             this.Hide();
             form.ShowDialog();
