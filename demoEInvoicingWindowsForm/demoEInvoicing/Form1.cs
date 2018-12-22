@@ -261,32 +261,18 @@ namespace demoEInvoicing
                     dc.Content.End.Insert("Chữ ký của khách hàng \t\t\t\t\t  Chữ ký của nhà bán hàng ", new CharacterFormat() { Size = 20, FontColor = SautinSoft.Document.Color.Red });
 
                     //Add a signature
-                    SDD::Shape signatureShape = new SDD::Shape(dc, SDD::Layout.Floating(new HorizontalPosition(0f, LengthUnit.Millimeter, HorizontalPositionAnchor.RightMargin),
-                        new VerticalPosition(0f, LengthUnit.Millimeter, VerticalPositionAnchor.TopMargin), new SDD::Size(1, 1)));
-
-                    ((SDD::FloatingLayout)signatureShape.Layout).WrappingStyle = SDD.WrappingStyle.InFrontOfText;
-
-                    signatureShape.Outline.Fill.SetEmpty();
+                                        
+                    String picPath = System.AppDomain.CurrentDomain.BaseDirectory + "\\signature.png"; // File located in Resources
 
                     SDD::Picture signaturePic = new SDD::Picture(dc, picPath);
 
                     signaturePic.Layout = SDD::Layout.Floating(
-                        new HorizontalPosition(4.5, LengthUnit.Centimeter, HorizontalPositionAnchor.Page),
-                        new VerticalPosition(14.5, LengthUnit.Centimeter, VerticalPositionAnchor.Page),
-                        new SDD::Size(20, 10, LengthUnit.Millimeter));
+                        new HorizontalPosition(16.5, LengthUnit.Centimeter, HorizontalPositionAnchor.Page),
+                        new VerticalPosition(10.5, LengthUnit.Centimeter, VerticalPositionAnchor.Page),
+                        new SDD::Size(20*3, 10*3, LengthUnit.Millimeter));
+                    
 
-                    PdfSaveOptions options = new PdfSaveOptions();
-
-                    options.DigitalSignature.CertificatePath = @"localhost.pfx";
-
-                    options.DigitalSignature.CertificatePassword = "123654";
-
-                    options.DigitalSignature.Location = "World Wide Web";
-                    options.DigitalSignature.Reason = "E-Invoice";
-                    options.DigitalSignature.ContactInfo = "address@email.com";
-
-                    options.DigitalSignature.SignatureLine = signatureShape;
-                    options.DigitalSignature.Signature = signaturePic;
+                    dc.Content.End.Insert(signaturePic.Content);
 
                     // Save PDF to a file
                     dc.Save(pdfPath, new PdfSaveOptions());
